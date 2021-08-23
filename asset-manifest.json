@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calendar-tracker-frontend/static/css/main.cd51b438.chunk.css",
+    "main.js": "/calendar-tracker-frontend/static/js/main.72ff6e57.chunk.js",
+    "main.js.map": "/calendar-tracker-frontend/static/js/main.72ff6e57.chunk.js.map",
+    "runtime-main.js": "/calendar-tracker-frontend/static/js/runtime-main.eb611cc0.js",
+    "runtime-main.js.map": "/calendar-tracker-frontend/static/js/runtime-main.eb611cc0.js.map",
+    "static/js/2.fd61be4c.chunk.js": "/calendar-tracker-frontend/static/js/2.fd61be4c.chunk.js",
+    "static/js/2.fd61be4c.chunk.js.map": "/calendar-tracker-frontend/static/js/2.fd61be4c.chunk.js.map",
+    "static/js/3.dc471867.chunk.js": "/calendar-tracker-frontend/static/js/3.dc471867.chunk.js",
+    "static/js/3.dc471867.chunk.js.map": "/calendar-tracker-frontend/static/js/3.dc471867.chunk.js.map",
+    "index.html": "/calendar-tracker-frontend/index.html",
+    "static/css/main.cd51b438.chunk.css.map": "/calendar-tracker-frontend/static/css/main.cd51b438.chunk.css.map",
+    "static/js/2.fd61be4c.chunk.js.LICENSE.txt": "/calendar-tracker-frontend/static/js/2.fd61be4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb611cc0.js",
+    "static/js/2.fd61be4c.chunk.js",
+    "static/css/main.cd51b438.chunk.css",
+    "static/js/main.72ff6e57.chunk.js"
+  ]
+}
